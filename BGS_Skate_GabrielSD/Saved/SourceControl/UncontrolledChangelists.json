@@ -1,0 +1,47 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/Assets/Animation/SkateboardingAceleration_Anim_mixamo_com.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/Assets/Materials/Beta_HighLimbsGeoSG3.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/Assets/Materials/Beta_Joints_MAT1.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/Assets/Animation/SkateboardingAceleration_Anim_Take_001.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/Assets/Animation/SkateboardingForward_Anim_mixamo_com.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/Assets/Animation/SkateboardingForward_Anim_Take_001.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/Assets/Characters/SkateboardingAceleration.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/Assets/Characters/SkateboardingAceleration_PhysicsAsset.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/Assets/Characters/SkateboardingForward.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/Assets/Characters/SkateboardingForward_Skeleton.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/Assets/Characters/SkateboardingForward_PhysicsAsset.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/BluePrints/Gameplay/BP_Skater.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/Maps/TestLevel.umap",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/BluePrints/Data/GI_SkateGame.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/BluePrints/Data/GM_SkateGame.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/BluePrints/Input/IMC_Skate.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/BluePrints/Input/InputActions/IA_Accelerate.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/BluePrints/Input/InputActions/IA_Break.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/BluePrints/Input/InputActions/IA_ChangeCamera.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/BluePrints/Input/InputActions/IA_Jump.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/BluePrints/Input/InputActions/IA_Pause.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/BluePrints/Input/InputActions/IA_TurnLR.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/BluePrints/Gameplay/Collectables/MasterCollectable.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/BluePrints/Data/BPI_SkatePlayerInterface.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/BluePrints/Input/InputActions/Accelerate.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/BluePrints/Input/InputActions/Break.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/BluePrints/Input/InputActions/Jump.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/BluePrints/Input/InputActions/Pause.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/BluePrints/Input/InputActions/TurnLR.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/BluePrints/Input/InputActions/ChangeCamera.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/Assets/Animation/SkateboardingAceleration.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/Assets/Animation/SkateboardingAceleration_PhysicsAsset.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/Assets/Animation/SkateboardingForward.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/Assets/Animation/SkateboardingForward_PhysicsAsset.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/Assets/Animation/SkateboardingForward_Skeleton.uasset",
+				"E:/Gabriel/Unreal/Projects/BGS_Skate/BGS_Skate_GabrielDrummond/BGS_Skate_GabrielSD/Content/SkateGame/BluePrints/Data/SkateGameInstance.uasset"
+			]
+		}
+	]
+}
