@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"E:\\Gabriel\\Unreal\\Projects\\BGS_Skate\\BGS_Skate_GabrielDrummond\\BGS_Skate_GabrielSD\\Intermediate\\Source\\BGS_Skate_GabrielSD.Build.cs",
+		"E:\\Gabriel\\Unreal\\Projects\\BGS_Skate\\BGS_Skate_GabrielDrummond\\BGS_Skate_GabrielSD\\Intermediate\\Source\\BGS_Skate_GabrielSD.Target.cs",
+		"E:\\Gabriel\\Unreal\\Projects\\BGS_Skate\\BGS_Skate_GabrielDrummond\\BGS_Skate_GabrielSD\\Intermediate\\Source\\BGS_Skate_GabrielSDClient.Target.cs",
+		"E:\\Gabriel\\Unreal\\Projects\\BGS_Skate\\BGS_Skate_GabrielDrummond\\BGS_Skate_GabrielSD\\Intermediate\\Source\\BGS_Skate_GabrielSDEditor.Target.cs",
+		"E:\\Gabriel\\Unreal\\Projects\\BGS_Skate\\BGS_Skate_GabrielDrummond\\BGS_Skate_GabrielSD\\Intermediate\\Source\\BGS_Skate_GabrielSDServer.Target.cs"
+	],
+	"EngineVersion": "5.4.1"
+}
